@@ -1,4 +1,4 @@
-# *Naive_Bayes_Implementation*
+# *Naive Bayes Implementation*
 
 Using *Bayesian Statistics* concepts I create a *Naive Bayes Classifier* Model from scratch and applying it on boston house dataset 
 
